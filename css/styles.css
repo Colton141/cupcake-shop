@@ -1,4 +1,15 @@
-p.intro {
-  width: 50%;
+.fancy{
+  text-align: center;
+  font-style: italic;
+}
+
+.classy{
+  color: red;
+  font-style: italic;
+}
+
+.best{
+  color: red;
+  font-weight: bold;
   font-style: italic;
 }
